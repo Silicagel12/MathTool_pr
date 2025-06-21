@@ -10,3 +10,8 @@ def multiply(a,b):
 def divide_new(a,b):
     return a/b
 
+def remainder(a,b):
+    return a//b
+
+def median(a,b):
+    return(a+b)/2
