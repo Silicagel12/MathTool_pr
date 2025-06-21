@@ -7,6 +7,6 @@ def subtract(a,b):
 def multiply(a,b):
     return a*b
 
-def divede(a,b):
+def divede_free(a,b):
     return a/b
 
